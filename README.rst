@@ -1,3 +1,9 @@
+.. SVENKUNKKA-README-NAV:BEGIN
+
+`中文项目说明 <sven-project-zh_>`_ · `English overview <sven-project-en_>`_ · `维护者 X / Maintainer on X <https://x.com/Svenu1s5>`_
+
+.. SVENKUNKKA-README-NAV:END
+
 Awesome Public Datasets
 =======================
 
@@ -1618,3 +1624,36 @@ Complementary Collections
 
 * CVonline: `Image Databases <http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm/>`_
 
+
+
+.. SVENKUNKKA-PROJECT-INFO:BEGIN
+
+.. _sven-project-zh:
+
+中文项目说明
+========================
+
+`awesomedata/awesome-public-datasets <https://github.com/awesomedata/awesome-public-datasets>`_ 的分支，按农业、生物、经济等主题整理公共数据源，便于研究与开发时寻找数据入口。内容归原项目及贡献者。
+
+**使用入口：** 在 `README.rst <README.rst>`_ 按主题浏览外部数据链接；上游贡献流程位于 `apd-core <https://github.com/awesomedata/apd-core/blob/master/CONTRIBUTING.md>`_。
+
+**范围说明：** 这是数据源目录，并不托管所有原始数据；部分数据并非免费，使用前需查看各来源的访问条件与许可证。上游目录由工具自动生成。
+
+.. _sven-project-en:
+
+English project overview
+========================
+
+A fork of `awesomedata/awesome-public-datasets <https://github.com/awesomedata/awesome-public-datasets>`_, organizing public data sources by subjects such as agriculture, biology and economics for research and development. Content belongs to the original project and contributors.
+
+**Getting started:** Browse external dataset links by topic in `README.rst <README.rst>`_. Upstream contributions follow the `apd-core guide <https://github.com/awesomedata/apd-core/blob/master/CONTRIBUTING.md>`_.
+
+**Scope:** This is a directory, not a host for all underlying datasets. Some sources are not free; check their access conditions and licenses. The upstream list is generated automatically.
+
+**本 Fork 的维护者 / Maintainer of this fork:** `SvenKunkka <https://github.com/SvenKunkka>`_ · `X / Twitter <https://x.com/Svenu1s5>`_
+
+**上游项目 / Upstream:** `awesomedata/awesome-public-datasets <https://github.com/awesomedata/awesome-public-datasets>`_
+
+原作者署名与许可证保留在原始说明中。 Original authorship and license notices are retained in the original documentation.
+
+.. SVENKUNKKA-PROJECT-INFO:END
