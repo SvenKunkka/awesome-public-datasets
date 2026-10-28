@@ -1,6 +1,6 @@
 .. SVENKUNKKA-README-NAV:BEGIN
 
-`中文项目说明 <sven-project-zh_>`_ · `English overview <sven-project-en_>`_ · `维护者 X / Maintainer on X <https://x.com/Svenu1s5>`_
+`English overview <sven-project-en_>`_ · `中文项目说明 <sven-project-zh_>`_ · `Maintainer on X / 维护者 X <https://x.com/Svenu1s5>`_
 
 .. SVENKUNKKA-README-NAV:END
 
